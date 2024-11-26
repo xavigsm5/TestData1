@@ -23,20 +23,18 @@
   ],
   "justifications": [
     {
-      "subject": "Test",
-      "date": "2023-10-01",
-      "reason": "Prueba inicial",
-      "professor": "Prof. Test",
-      "image": "",
-      "id": "d460"
+      "id": 1,
+      "studentName": "María López",
+      "subject": "Programación De Aplicaciones Moviles",
+      "reason": "Sick",
+      "comments": []
     },
     {
-      "id": "718e",
-      "subject": "Programación de Aplicaciones Móviles",
-      "date": "2024-11-25T00:15:00",
-      "reason": "Me dolia la guata",
-      "professor": "Profesora Viviana Soledad",
-      "image": ""
+      "id": 2,
+      "studentName": "Juan Pérez",
+      "subject": "Calidad de Software",
+      "reason": "Personal",
+      "comments": []
     }
   ],
   "students": [
@@ -78,6 +76,38 @@
       "professor": "Prof. Daniel Montero",
       "date": "2023-10-01",
       "id": "6b9b"
+    }
+  ],
+  "qrData": [
+    {
+      "id": "e37c",
+      "class": "Programación de Aplicaciones Móviles",
+      "date": "2023-10-01",
+      "professor": "Prof. Viviana Soledad",
+      "rut": "12345678",
+      "email": "rex@duoc.cl",
+      "image": "assets/informaticasoria-servicios-aplicaciones-moviles.jpg",
+      "description": "Aprendizaje de Ionic y Angular"
+    },
+    {
+      "id": "2468",
+      "class": "Programación de Aplicaciones Móviles",
+      "date": "2023-10-01",
+      "professor": "Prof. Viviana Soledad",
+      "rut": "12345678",
+      "email": "sas@duoc.cl",
+      "image": "assets/informaticasoria-servicios-aplicaciones-moviles.jpg",
+      "description": "Aprendizaje de Ionic y Angular"
+    },
+    {
+      "id": "1f0b",
+      "class": "Programación de Aplicaciones Móviles",
+      "date": "2023-10-01",
+      "professor": "Prof. Viviana Soledad",
+      "rut": "12345678",
+      "email": "rex@duoc.cl",
+      "image": "assets/informaticasoria-servicios-aplicaciones-moviles.jpg",
+      "description": "Aprendizaje de Ionic y Angular"
     }
   ]
 }
