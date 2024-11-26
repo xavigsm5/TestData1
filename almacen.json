@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Juan Perez",
+      "email": "juan@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "e571",
+      "username": "javier",
+      "email": "javiergsm@duocuc.cl",
+      "rut": "123456789",
+      "password": "123456789"
+    },
+    {
+      "id": "72fa",
+      "username": "Rexitohermoso",
+      "email": "rexitohermoso@duoc.cl",
+      "rut": "123456789",
+      "password": "123456789"
+    }
+  ],
+  "justifications": [
+    {
+      "id": 1,
+      "studentName": "María López",
+      "subject": "Programación De Aplicaciones Moviles",
+      "reason": "Sick",
+      "comments": []
+    },
+    {
+      "id": 2,
+      "studentName": "Juan Pérez",
+      "subject": "Calidad de Software",
+      "reason": "Personal",
+      "comments": []
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "Maria Lopez",
+      "attendance": [
+        "",
+        "Class 1",
+        "Class 1",
+        "Class 1",
+        "Class 1",
+        "Class 1",
+        "Class 2",
+        "Class 1"
+      ]
+    }
+  ],
+  "scannedData": [
+    {
+      "id": "5a0e",
+      "userId": "eb74",
+      "data": "https://detodopeliculas.nu/"
+    }
+  ]
+}
