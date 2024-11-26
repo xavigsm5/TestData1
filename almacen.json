@@ -23,18 +23,20 @@
   ],
   "justifications": [
     {
-      "id": 1,
-      "studentName": "María López",
-      "subject": "Programación De Aplicaciones Moviles",
-      "reason": "Sick",
-      "comments": []
+      "subject": "Test",
+      "date": "2023-10-01",
+      "reason": "Prueba inicial",
+      "professor": "Prof. Test",
+      "image": "",
+      "id": "d460"
     },
     {
-      "id": 2,
-      "studentName": "Juan Pérez",
-      "subject": "Calidad de Software",
-      "reason": "Personal",
-      "comments": []
+      "id": "718e",
+      "subject": "Programación de Aplicaciones Móviles",
+      "date": "2024-11-25T00:15:00",
+      "reason": "Me dolia la guata",
+      "professor": "Profesora Viviana Soledad",
+      "image": ""
     }
   ],
   "students": [
