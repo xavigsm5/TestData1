@@ -66,7 +66,7 @@
       "name": "Programación de Aplicaciones Móviles",
       "description": "Aprendizaje de Ionic y Angular",
       "professor": "Prof. Viviana Soledad",
-      "date": "2023-10-01",
+      "date": "2024-11-26",
       "id": "4865"
     },
     {
@@ -74,7 +74,7 @@
       "name": "Seguridad en Sistemas Computacionales",
       "description": "Aprendizaje de seguridad informática",
       "professor": "Prof. Daniel Montero",
-      "date": "2023-10-01",
+      "date": "2024-11-26",
       "id": "6b9b"
     }
   ],
@@ -82,7 +82,7 @@
     {
       "id": "e37c",
       "class": "Programación de Aplicaciones Móviles",
-      "date": "2023-10-01",
+      "date": "2024-11-26",
       "professor": "Prof. Viviana Soledad",
       "rut": "12345678",
       "email": "rex@duoc.cl",
@@ -92,7 +92,7 @@
     {
       "id": "2468",
       "class": "Programación de Aplicaciones Móviles",
-      "date": "2023-10-01",
+      "date": "2024-11-26",
       "professor": "Prof. Viviana Soledad",
       "rut": "12345678",
       "email": "sas@duoc.cl",
@@ -102,7 +102,7 @@
     {
       "id": "1f0b",
       "class": "Programación de Aplicaciones Móviles",
-      "date": "2023-10-01",
+      "date": "2024-11-26",
       "professor": "Prof. Viviana Soledad",
       "rut": "12345678",
       "email": "rex@duoc.cl",
