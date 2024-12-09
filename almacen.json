@@ -42,14 +42,34 @@
       "id": "1",
       "name": "Maria Lopez",
       "attendance": [
-        "",
-        "Class 1",
-        "Class 1",
-        "Class 1",
-        "Class 1",
-        "Class 1",
-        "Class 2",
-        "Class 1"
+        {
+          "subject": "Programación de Aplicaciones Móviles",
+          "date": "2024-11-26"
+        },
+        {
+          "subject": "Seguridad en Sistemas Computacionales",
+          "date": "2024-11-27"
+        }
+      ]
+    },
+    {
+      "id": "e571",
+      "name": "Javier",
+      "attendance": [
+        {
+          "subject": "Programación de Aplicaciones Móviles",
+          "date": "2024-11-26"
+        }
+      ]
+    },
+    {
+      "id": "72fa",
+      "name": "Rexitohermoso",
+      "attendance": [
+        {
+          "subject": "Seguridad en Sistemas Computacionales",
+          "date": "2024-11-27"
+        }
       ]
     }
   ],
