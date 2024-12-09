@@ -77,37 +77,5 @@
       "date": "2024-11-26",
       "id": "6b9b"
     }
-  ],
-  "qrData": [
-    {
-      "id": "e37c",
-      "class": "Programación de Aplicaciones Móviles",
-      "date": "2024-11-26",
-      "professor": "Prof. Viviana Soledad",
-      "rut": "12345678",
-      "email": "rex@duoc.cl",
-      "image": "assets/informaticasoria-servicios-aplicaciones-moviles.jpg",
-      "description": "Aprendizaje de Ionic y Angular"
-    },
-    {
-      "id": "2468",
-      "class": "Programación de Aplicaciones Móviles",
-      "date": "2024-11-26",
-      "professor": "Prof. Viviana Soledad",
-      "rut": "12345678",
-      "email": "sas@duoc.cl",
-      "image": "assets/informaticasoria-servicios-aplicaciones-moviles.jpg",
-      "description": "Aprendizaje de Ionic y Angular"
-    },
-    {
-      "id": "1f0b",
-      "class": "Programación de Aplicaciones Móviles",
-      "date": "2024-11-26",
-      "professor": "Prof. Viviana Soledad",
-      "rut": "12345678",
-      "email": "rex@duoc.cl",
-      "image": "assets/informaticasoria-servicios-aplicaciones-moviles.jpg",
-      "description": "Aprendizaje de Ionic y Angular"
-    }
   ]
 }
