@@ -103,5 +103,29 @@
       "date": "2024-11-26",
       "id": "6b9b"
     }
+  ],
+  "subjects": [
+    {
+      "name": "Programación de Aplicaciones Móviles",
+      "classroom": "Room 101"
+    },
+    {
+      "name": "Calidad de Software",
+      "classroom": "Room 102"
+    },
+    {
+      "name": "Gestión de Proyectos Informaticos",
+      "classroom": "Room 103"
+    }
+  ],
+  "notifications": [
+    {
+      "userId": "1",
+      "message": "New assignment uploaded for Programación de Aplicaciones Móviles"
+    },
+    {
+      "userId": "1",
+      "message": "Classroom changed for Calidad de Software"
+    }
   ]
 }
