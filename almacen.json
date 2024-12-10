@@ -26,14 +26,20 @@
       "id": 1,
       "studentName": "María López",
       "subject": "Programación De Aplicaciones Moviles",
+      "date": "2024-11-26",
       "reason": "Sick",
+      "professor": "Prof. Viviana Soledad",
+      "image": "path/to/image.jpg",
       "comments": []
     },
     {
       "id": 2,
       "studentName": "Juan Pérez",
       "subject": "Calidad de Software",
+      "date": "2024-11-27",
       "reason": "Personal",
+      "professor": "Prof. Daniel Montero",
+      "image": "path/to/image.jpg",
       "comments": []
     }
   ],
