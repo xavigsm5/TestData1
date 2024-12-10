@@ -1,28 +1,28 @@
 {
   "users": [
     {
-      "id": "1",
       "username": "Juan Perez",
       "email": "juan@example.com",
       "rut": "123456789",
       "password": "123456",
-      "subjects": ["Programación de Aplicaciones Móviles", "Calidad de Software"]
+      "subjects": ["Programación de Aplicaciones Móviles", "Calidad de Software"],
+      "role": "docente"
     },
     {
-      "id": "e571",
       "username": "javier",
       "email": "javiergsm@duocuc.cl",
       "rut": "123456789",
       "password": "123456789",
-      "subjects": ["Gestión de Proyectos Informaticos"]
+      "subjects": ["Gestión de Proyectos Informaticos"],
+      "role": "docente"
     },
     {
-      "id": "72fa",
       "username": "Rexitohermoso",
       "email": "rexitohermoso@duoc.cl",
       "rut": "123456789",
       "password": "123456789",
-      "subjects": []
+      "subjects": [],
+      "role": "estudiante"
     }
   ],
   "justifications": [
@@ -124,11 +124,11 @@
   ],
   "notifications": [
     {
-      "userId": "1",
+      "username": "Juan Perez",
       "message": "New assignment uploaded for Programación de Aplicaciones Móviles"
     },
     {
-      "userId": "1",
+      "username": "Juan Perez",
       "message": "Classroom changed for Calidad de Software"
     }
   ]
