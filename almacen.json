@@ -2,23 +2,27 @@
   "users": [
     {
       "id": "1",
-      "name": "Juan Perez",
+      "username": "Juan Perez",
       "email": "juan@example.com",
-      "password": "123456"
+      "rut": "123456789",
+      "password": "123456",
+      "subjects": ["Programación de Aplicaciones Móviles", "Calidad de Software"]
     },
     {
       "id": "e571",
       "username": "javier",
       "email": "javiergsm@duocuc.cl",
       "rut": "123456789",
-      "password": "123456789"
+      "password": "123456789",
+      "subjects": ["Gestión de Proyectos Informaticos"]
     },
     {
       "id": "72fa",
       "username": "Rexitohermoso",
       "email": "rexitohermoso@duoc.cl",
       "rut": "123456789",
-      "password": "123456789"
+      "password": "123456789",
+      "subjects": []
     }
   ],
   "justifications": [
