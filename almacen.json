@@ -7,7 +7,9 @@
       "rut": "123456789",
       "password": "123456",
       "subjects": ["Programación de Aplicaciones Móviles", "Calidad de Software"],
-      "role": "docente"
+      "role": "docente",
+      "resetToken": null,
+      "resetTokenExpiration": null
     },
     {
       "id": "2",
@@ -16,7 +18,9 @@
       "rut": "123456789",
       "password": "123456789",
       "subjects": ["Gestión de Proyectos Informaticos"],
-      "role": "docente"
+      "role": "docente",
+      "resetToken": null,
+      "resetTokenExpiration": null
     },
     {
       "id": "3",
@@ -25,7 +29,9 @@
       "rut": "123456789",
       "password": "123456789",
       "subjects": [],
-      "role": "estudiante"
+      "role": "estudiante",
+      "resetToken": null,
+      "resetTokenExpiration": null
     }
   ],
   "justifications": [
@@ -91,24 +97,6 @@
       "id": "5a0e",
       "userId": "eb74",
       "data": "https://detodopeliculas.nu/"
-    }
-  ],
-  "classes": [
-    {
-      "image": "assets/informaticasoria-servicios-aplicaciones-moviles.jpg",
-      "name": "Programación de Aplicaciones Móviles",
-      "description": "Aprendizaje de Ionic y Angular",
-      "professor": "Prof. Viviana Soledad",
-      "date": "2024-11-26",
-      "id": "4865"
-    },
-    {
-      "image": "assets/seguridadinformatica.png",
-      "name": "Seguridad en Sistemas Computacionales",
-      "description": "Aprendizaje de seguridad informática",
-      "professor": "Prof. Daniel Montero",
-      "date": "2024-11-26",
-      "id": "6b9b"
     }
   ],
   "subjects": [
