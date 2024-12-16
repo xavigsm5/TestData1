@@ -122,5 +122,22 @@
       "username": "Juan Perez",
       "message": "Classroom changed for Calidad de Software"
     }
+  ],
+  "classes": [
+    {
+      "id": "1",
+      "subject": "Programación de Aplicaciones Móviles",
+      "date": "2024-11-26"
+    },
+    {
+      "id": "2",
+      "subject": "Calidad de Software",
+      "date": "2024-11-27"
+    },
+    {
+      "id": "3",
+      "subject": "Seguridad en Sistemas Computacionales",
+      "date": "2024-11-28"
+    }
   ]
 }
