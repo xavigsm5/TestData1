@@ -1,4 +1,4 @@
-  [
+[
   {
     "id": "1",
     "username": "Juan Perez",
@@ -10,8 +10,8 @@
       "Calidad de Software"
     ],
     "role": "docente",
-    "resetToken": null,
-    "resetTokenExpiration": null
+    "resetToken": "random-generated-token-1",
+    "resetTokenExpiration": "2024-12-17T12:00:00Z"
   },
   {
     "id": "2",
@@ -23,8 +23,8 @@
       "Gestión de Proyectos Informaticos"
     ],
     "role": "docente",
-    "resetToken": null,
-    "resetTokenExpiration": null
+    "resetToken": "random-generated-token-2",
+    "resetTokenExpiration": "2024-12-17T12:00:00Z"
   },
   {
     "id": "3",
@@ -34,8 +34,8 @@
     "password": "123456789",
     "subjects": [],
     "role": "estudiante",
-    "resetToken": null,
-    "resetTokenExpiration": null
+    "resetToken": "random-generated-token-3",
+    "resetTokenExpiration": "2024-12-17T12:00:00Z"
   },
   {
     "id": "z8cec0jbz",
@@ -55,6 +55,16 @@
     "password": "12345",
     "role": "estudiante",
     "subjects": [],
+    "resetToken": null,
+    "resetTokenExpiration": null
+  },
+  {
+    "id": "y0y983mah",
+    "username": "vicho",
+    "email": "tvmagis1515@gmail.com",
+    "rut": "123456789",
+    "password": "12345",
+    "role": "docente",
     "resetToken": null,
     "resetTokenExpiration": null
   }
