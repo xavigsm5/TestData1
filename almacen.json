@@ -1,52 +1,64 @@
+  [
   {
-      "id": "1",
-      "username": "Juan Perez",
-      "email": "juan@example.com",
-      "rut": "123456789",
-      "password": "123456",
-      "subjects": [
-        "Programación de Aplicaciones Móviles",
-        "Calidad de Software"
-      ],
-      "role": "docente",
-      "resetToken": null,
-      "resetTokenExpiration": null
-    },
-    {
-      "id": "2",
-      "username": "javier",
-      "email": "javiergsm@duocuc.cl",
-      "rut": "123456789",
-      "password": "123456789",
-      "subjects": [
-        "Gestión de Proyectos Informaticos"
-      ],
-      "role": "docente",
-      "resetToken": null,
-      "resetTokenExpiration": null
-    },
-    {
-      "id": "3",
-      "username": "Rexitohermoso",
-      "email": "rexitohermoso@duoc.cl",
-      "rut": "123456789",
-      "password": "123456789",
-      "subjects": [],
-      "role": "estudiante",
-      "resetToken": null,
-      "resetTokenExpiration": null
-    },
-    {
-      "id": "z8cec0jbz",
-      "username": "vicho",
-      "email": "javiergranja10@gmail.com",
-      "rut": "123456789",
-      "password": "12345",
-      "role": "docente",
-      "resetToken": null,
-      "resetTokenExpiration": null
-    }
-  ],
+    "id": "1",
+    "username": "Juan Perez",
+    "email": "juan@example.com",
+    "rut": "123456789",
+    "password": "123456",
+    "subjects": [
+      "Programación de Aplicaciones Móviles",
+      "Calidad de Software"
+    ],
+    "role": "docente",
+    "resetToken": null,
+    "resetTokenExpiration": null
+  },
+  {
+    "id": "2",
+    "username": "javier",
+    "email": "javiergsm@duocuc.cl",
+    "rut": "123456789",
+    "password": "123456789",
+    "subjects": [
+      "Gestión de Proyectos Informaticos"
+    ],
+    "role": "docente",
+    "resetToken": null,
+    "resetTokenExpiration": null
+  },
+  {
+    "id": "3",
+    "username": "Rexitohermoso",
+    "email": "rexitohermoso@duoc.cl",
+    "rut": "123456789",
+    "password": "123456789",
+    "subjects": [],
+    "role": "estudiante",
+    "resetToken": null,
+    "resetTokenExpiration": null
+  },
+  {
+    "id": "z8cec0jbz",
+    "username": "vicho",
+    "email": "javiergranja10@gmail.com",
+    "rut": "123456789",
+    "password": "12345",
+    "role": "docente",
+    "resetToken": null,
+    "resetTokenExpiration": null
+  },
+  {
+    "id": "absqjfili",
+    "username": "sas",
+    "email": "sas@duoc.cl",
+    "rut": "123456789",
+    "password": "12345",
+    "role": "estudiante",
+    "subjects": [],
+    "resetToken": null,
+    "resetTokenExpiration": null
+  }
+],
   "justifications": [
     {
       "id": 1,
