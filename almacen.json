@@ -1,4 +1,6 @@
-[
+{
+  "users": [
+    {
   {
     "id": "1",
     "username": "Juan Perez",
